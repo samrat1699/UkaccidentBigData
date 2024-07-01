@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+sqlite
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn 
+=======
+sqlite
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn 
+>>>>>>> 0256f518a7dfb43d24311ef234b1e222d961d067
+jupyter
